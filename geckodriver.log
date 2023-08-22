@@ -1,0 +1,169 @@
+1672911975021	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1Zeq2O6IWtle"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1672911975703	Marionette	INFO	Marionette enabled
+1672911975707	Marionette	INFO	Listening on port 39753
+1672911975802	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.1Zeq2O6IWtle/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://beta.connectreseller.com/assets/js/ace.min.js, line 1: TypeError: a(...).typeahead is not a function
+1672911985276	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://beta.connectreseller.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://beta.connectreseller.com."
+JavaScript error: https://beta.connectreseller.com/assets/js/ace.min.js, line 1: TypeError: a(...).typeahead is not a function
+1672914138346	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ldo4hrzRbyLN"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1672914139377	Marionette	INFO	Marionette enabled
+1672914139390	Marionette	INFO	Listening on port 44675
+1672914139784	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.ldo4hrzRbyLN/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://beta.connectreseller.com/assets/js/ace.min.js, line 1: TypeError: a(...).typeahead is not a function
+1672914148705	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1672914148933	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://beta.connectreseller.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://beta.connectreseller.com."
+JavaScript error: https://beta.connectreseller.com/assets/js/ace.min.js, line 1: TypeError: a(...).typeahead is not a function
+JavaScript error: https://beta.connectreseller.com/assets/js/ace.min.js, line 1: TypeError: a(...).typeahead is not a function
+JavaScript error: https://beta.connectreseller.com/assets/js/ace.min.js, line 1: TypeError: a(...).typeahead is not a function
+1672914273937	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://beta.connectreseller.com/assets/js/ace.min.js, line 1: TypeError: a(...).typeahead is not a function
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: https://beta.connectreseller.com/assets/js/ace.min.js, line 1: TypeError: a(...).typeahead is not a function
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:6442450966"
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1007))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2398))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2398))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2398))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal6442450971/pagestyle144 (resource://devtools/server/actors/page-style.js:1007:5)", "resource://devtools/shared/protocol/Front.js", 383))
+1685012948239	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.917jITPn2KlH"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1685012951737	Marionette	INFO	Marionette enabled
+1685012951790	Marionette	INFO	Listening on port 35725
+1685012952961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.917jITPn2KlH/search.json.mozlz4", (void 0)))
+JavaScript error: https://beta.connectreseller.com/assets/js/ace.min.js, line 1: TypeError: a(...).typeahead is not a function
+1685012964541	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://beta.connectreseller.com."
+1685013305883	Marionette	INFO	Stopped listening on port 35725
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1685445346357	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Nml8FT3OW1rt"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1685445349126	Marionette	INFO	Marionette enabled
+1685445349177	Marionette	INFO	Listening on port 35589
+1685445350445	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.Nml8FT3OW1rt/search.json.mozlz4", (void 0)))
+JavaScript error: https://beta.connectreseller.com/assets/js/ace.min.js, line 1: TypeError: a(...).typeahead is not a function
+1685445363700	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://beta.connectreseller.com."
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1685450695763	Marionette	INFO	Stopped listening on port 35589
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1689074763930	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hpvM2xi5LJT3"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1689074766326	Marionette	INFO	Marionette enabled
+1689074766384	Marionette	INFO	Listening on port 44299
+1689074767714	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile.hpvM2xi5LJT3/search.json.mozlz4", (void 0)))
+JavaScript error: https://beta.connectreseller.com/assets/js/ace.min.js, line 1: TypeError: a(...).typeahead is not a function
+1689074779403	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://beta.connectreseller.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://beta.connectreseller.com."
+JavaScript error: https://beta.connectreseller.com/assets/js/ace.min.js, line 1: TypeError: a(...).typeahead is not a function
+1689074951589	Marionette	INFO	Stopped listening on port 44299
+1692624879229	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pFx41lF7iXDS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1692624882852	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1692624883522	Marionette	INFO	Listening on port 37015
+1692624884178	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript error: https://beta.connectreseller.com/assets/js/ace.min.js, line 1: TypeError: a(...).typeahead is not a function
+1692624901687	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://beta.connectreseller.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://beta.connectreseller.com."
+JavaScript error: https://beta.connectreseller.com/assets/js/ace.min.js, line 1: TypeError: a(...).typeahead is not a function
+JavaScript error: https://beta.connectreseller.com/assets/js/ace.min.js, line 1: TypeError: a(...).typeahead is not a function
+JavaScript error: https://beta.connectreseller.com/assets/js/ace.min.js, line 1: TypeError: a(...).typeahead is not a function
+JavaScript error: https://beta.connectreseller.com/assets/js/ace.min.js, line 1: TypeError: a(...).typeahead is not a function
+JavaScript error: https://beta.connectreseller.com/assets/js/ace.min.js, line 1: TypeError: a(...).typeahead is not a function
+JavaScript error: https://beta.connectreseller.com/assets/js/ace.min.js, line 1: TypeError: a(...).typeahead is not a function
+JavaScript error: https://beta.connectreseller.com/assets/js/ace.min.js, line 1: TypeError: a(...).typeahead is not a function
+JavaScript error: https://beta.connectreseller.com/assets/js/ace.min.js, line 1: TypeError: a(...).typeahead is not a function
+JavaScript error: https://beta.connectreseller.com/assets/js/ace.min.js, line 1: TypeError: a(...).typeahead is not a function
+1692625435798	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Au7oq3eDaOoU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1692625437056	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1692625437287	Marionette	INFO	Listening on port 37939
+1692625437788	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript error: https://beta.connectreseller.com/assets/js/ace.min.js, line 1: TypeError: a(...).typeahead is not a function
+1692625448022	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://beta.connectreseller.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://beta.connectreseller.com."
+JavaScript error: https://beta.connectreseller.com/assets/js/ace.min.js, line 1: TypeError: a(...).typeahead is not a function
+JavaScript error: https://beta.connectreseller.com/assets/js/ace.min.js, line 1: TypeError: a(...).typeahead is not a function
+JavaScript error: https://beta.connectreseller.com/assets/js/ace.min.js, line 1: TypeError: a(...).typeahead is not a function
+JavaScript error: https://beta.connectreseller.com/assets/js/ace.min.js, line 1: TypeError: a(...).typeahead is not a function
+JavaScript error: https://beta.connectreseller.com/assets/js/ace.min.js, line 1: TypeError: a(...).typeahead is not a function
+JavaScript error: https://beta.connectreseller.com/assets/js/ace.min.js, line 1: TypeError: a(...).typeahead is not a function
+JavaScript error: https://beta.connectreseller.com/assets/js/ace.min.js, line 1: TypeError: a(...).typeahead is not a function
+JavaScript error: https://beta.connectreseller.com/assets/js/ace.min.js, line 1: TypeError: a(...).typeahead is not a function
+JavaScript error: https://beta.connectreseller.com/assets/js/ace.min.js, line 1: TypeError: a(...).typeahead is not a function
+1692626012474	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.483sL3j2m9xF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1692626013363	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1692626013487	Marionette	INFO	Listening on port 43433
+1692626013679	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript error: https://beta.connectreseller.com/assets/js/ace.min.js, line 1: TypeError: a(...).typeahead is not a function
+1692626023541	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://beta.connectreseller.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://beta.connectreseller.com."
+JavaScript error: https://beta.connectreseller.com/assets/js/ace.min.js, line 1: TypeError: a(...).typeahead is not a function
+JavaScript error: https://beta.connectreseller.com/assets/js/ace.min.js, line 1: TypeError: a(...).typeahead is not a function
